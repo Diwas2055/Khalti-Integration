@@ -1,4 +1,4 @@
-# Khalti Intergation
+# Khalti Integration
 
 This is a sample project to demonstrate how to integrate Khalti payment gateway in your website.
 
